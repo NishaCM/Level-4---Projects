@@ -1,0 +1,36 @@
+signupbody{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    margin: 50px 100px;
+   
+}
+
+.button{
+    background-color: #d8e4ef;
+    margin: 2px 5px;
+    padding: 8px 15px;
+    text-align: center;
+    
+}
+.button:hover{
+    background-color: #395ee1;
+    color: white;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 8%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.footer{
+    padding: 20px;
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
